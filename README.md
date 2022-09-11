@@ -9,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mcKTS/Jailbreak-Visua
 ```
 
 # Tutorials
-[Tutorials](/Tutorials/ModelManager.md) are in here!
+ModelManager -> [Link](/Tutorials/ModelManager.md)
 
 # Limitations
 There are a few limitations in this script to ensure a fair gaming environment for others.
