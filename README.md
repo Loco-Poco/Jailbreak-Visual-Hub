@@ -14,4 +14,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mcKTS/Jailbreak-Visua
 # Limitations
 There are a few limitations in this script to ensure a fair gaming environment for others.
 - The server cannot have more than one player
-- Once a player has joined you, you will be kicked. *(We recommend you do this inside a private server so that no one can interpret you)*
+- Once a player has joined you, you will be kicked from the game. *(We recommend you do this inside a private server so that no one can interpret you)*
