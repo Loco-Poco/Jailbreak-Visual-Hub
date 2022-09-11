@@ -12,5 +12,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mcKTS/Jailbreak-Visua
 [Tutorials](/Tutorials/ModelManager.md) are in here!
 
 # Limitations
-There are a limitation/few limitations in this script to ensure a fair gaming environment for others.
+There is a limitation/few limitations in this script to ensure a fair gaming environment for others.
 - The server cannot have more than one player
