@@ -5,7 +5,7 @@ Discord Server: [Discord](https://discord.gg/Bp7wFcZeUn)
 
 # Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mcKTS/Jailbreak-Visual-Hub/main/jailbreakVisualHub-Rewrite.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Loco-Poco/Jailbreak-Visual-Hub/main/jailbreakVisualHub-Rewrite.lua"))()
 ```
 
 # Tutorials
